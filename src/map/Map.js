@@ -11,6 +11,7 @@ import * as DomUtil from '../dom/DomUtil';
 import {PosAnimation} from '../dom/PosAnimation';
 
 /*
+ *
  * @class Map
  * @aka L.Map
  * @inherits Evented
